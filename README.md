@@ -1,2 +1,1 @@
-# p2-insta485-static
-EECS485
+InstaClone-static2
